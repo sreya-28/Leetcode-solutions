@@ -1,5 +1,5 @@
 #H-Index
-#difficulty: easy
+#difficulty: medium
 #language: python
 #link: https://leetcode.com/problems/h-index/description/
 class Solution:
